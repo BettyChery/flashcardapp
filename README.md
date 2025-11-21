@@ -15,4 +15,4 @@
 - [ ] Further customize and style the card
 - [ ] Add a button that will toggle hiding and showing the answer choices
 
-<img src="https://i.imgur.com/Ll5JBC2.gif" width="200" height="400" />  
+<img src="https://github.com/BettyChery/flashcardapp/blob/main/lab1.gif" width="200" height="400" />  
